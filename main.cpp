@@ -1,0 +1,7 @@
+function jack(){
+
+}
+
+function nung(){
+
+}
