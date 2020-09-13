@@ -2,6 +2,7 @@ function jack(){
 
 }
 
-function nung(){
-
+function nueng(){
+ bla bla bla
+ babana banana
 }
